@@ -1,6 +1,6 @@
 
 <p class="question">1. Who developed Python Programming Language?<br /></p>
-<p class"answer">a) Wick van Rossum<br />
+<p class="answer">a) Wick van Rossum<br />
 b) Rasmus Lerdorf<br />
 c) Guido van Rossum<br />
 d) Niene Stom<br /></p>
@@ -24,28 +24,28 @@ Explanation: Python language is designed by a Dutch programmer Guido van Rossum 
 </div>
 </div>
 	<p class="question">2. Which type of Programming does Python support?<br /></p>
-<p class"answer">a) object-oriented programming<br />
+<p class="answer">a) object-oriented programming<br />
 b) structured programming<br />
 c) functional programming<br />
 d) all of the mentioned<br /></p>
 <span class="collapseomatic " id="id62925df21d3f0"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id62925df21d3f0" class="collapseomatic_content ">Answer: d<br />
 Explanation: Python is an interpreted programming language, which supports object-oriented, structured, and functional programming.</div>
 <p class="question">3. Is Python case sensitive when dealing with identifiers?<br /></p>
-<p class"answer">a) no<br />
+<p class="answer">a) no<br />
 b) yes<br />
 c) machine dependent<br />
 d) none of the mentioned<br /></p>
 <span class="collapseomatic " id="id62925df21d3ff"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id62925df21d3ff" class="collapseomatic_content ">Answer: a<br />
 Explanation: Case is always significant.</div>
 <p class="question">4. Which of the following is the correct extension of the Python file?<br /></p>
-<p class"answer">a) .python<br />
+<p class="answer">a) .python<br />
 b) .pl<br />
 c) .py<br />
 d) .p<br /></p>
 <span class="collapseomatic " id="id62925df21d40a"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id62925df21d40a" class="collapseomatic_content ">Answer: c<br />
 Explanation: ‘.py’ is the correct extension of the Python file. Python programs can be written in any text editor. To save these programs we need to save in files with file extension ‘.py’.</div>
 <p class="question">5. Is Python code compiled or interpreted?<br /></p>
-<p class"answer">a) Python code is both compiled and interpreted<br />
+<p class="answer">a) Python code is both compiled and interpreted<br />
 b) Python code is neither compiled nor interpreted<br />
 c) Python code is only compiled<br />
 d) Python code is only interpreted<br /></p>
@@ -84,7 +84,7 @@ Explanation: Many languages have been implemented using both compilers and inter
 </div>
 </div>
         <p class="question">6. All keywords in Python are in _________<br /></p>
-<p class"answer">a) Capitalized<br />
+<p class="answer">a) Capitalized<br />
 b) lower case<br />
 c) UPPER CASE<br />
 d) None of the mentioned<br /></p>
@@ -96,7 +96,7 @@ Explanation: True, False and None are capitalized while the others are in lower 
 <div class="hk1_style-wrap5"><div class="hk1_style-wrap4"><div class="hk1_style-wrap3"><div class="hk1_style-wrap2"><div class="hk1_style-wrap"><div class="hk1_style"><div class="python"><pre class="de1"><span class="nu0">4</span> + <span class="nu0">3</span> % <span class="nu0">5</span></pre></div></div></div></div></div></div></div>
 
 
-<p class"answer">a) 7<br />
+<p class="answer">a) 7<br />
 b) 2<br />
 c) 4<br />
 d) 1<br /></p>
@@ -120,14 +120,14 @@ Explanation: The order of precedence is: %, +. Hence the expression above, on si
 </div>
 </div>
         <p class="question">8. Which of the following is used to define a block of code in Python language?<br /></p>
-<p class"answer">a) Indentation<br />
+<p class="answer">a) Indentation<br />
 b) Key<br />
 c) Brackets<br />
 d) All of the mentioned<br /></p>
 <span class="collapseomatic " id="id62925df21d43e"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id62925df21d43e" class="collapseomatic_content ">Answer: a<br />
 Explanation: In Python, to define a block of code we use indentation. Indentation refers to whitespaces at the beginning of the line.</div>
 <p class="question">9. Which keyword is used for function in Python language?<br /></p>
-<p class"answer">a) Function<br />
+<p class="answer">a) Function<br />
 b) Def<br />
 c) Fun<br />
 d) Define<br /></p>
@@ -135,7 +135,7 @@ d) Define<br /></p>
 Explanation: None.<br />
 </div>
 <p class="question">10. Which of the following character is used to give single-line comments in Python?<br /></p>
-<p class"answer">a) //<br />
+<p class="answer">a) //<br />
 b) #<br />
 c) !<br />
 d) /*<br /></p>
@@ -155,7 +155,7 @@ text &#8220;&#8221;&#8221;<br />
 &nbsp;
     i + <span class="sy0">=</span> <span class="nu0">1</span></pre></div></div></div></div></div></div></div>
 
-<p class"answer">a) 1 2 3<br />
+<p class="answer">a) 1 2 3<br />
 b) error<br />
 c) 1 2<br />
 d) none of the mentioned<br /></p>
@@ -179,21 +179,21 @@ Explanation: SyntaxError, there shouldn&#8217;t be a space between + and = in +=
 </div>
 </div>
 	<p class="question">12. Which of the following functions can help us to find the version of python that we are currently working on?<br /></p>
-<p class"answer">a) sys.version(1)<br />
+<p class="answer">a) sys.version(1)<br />
 b) sys.version(0)<br />
 c) sys.version()<br />
 d) sys.version<br /></p>
 <span class="collapseomatic " id="id62925df21d462"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id62925df21d462" class="collapseomatic_content ">Answer: a<br />
 Explanation: The function sys.version can help us to find the version of python that we are currently working on. For example, 3.5.2, 2.7.3 etc. this function also returns the current date, time, bits etc along with the version.</div>
 <p class="question">13. Python supports the creation of anonymous functions at runtime, using a construct called __________<br /></p>
-<p class"answer">a) pi<br />
+<p class="answer">a) pi<br />
 b) anonymous<br />
 c) lambda<br />
 d) none of the mentioned<br /></p>
 <span class="collapseomatic " id="id62925df21d46b"  tabindex="" title="View Answer"    >View Answer</span><div id="target-id62925df21d46b" class="collapseomatic_content ">Answer: c<br />
 Explanation: Python supports the creation of anonymous functions (i.e. functions that are not bound to a name) at runtime, using a construct called lambda. Lambda functions are restricted to a single expression. They can be used wherever normal functions can be used. </div>
 <p class="question">14. What is the order of precedence in python?<br /></p>
-<p class"answer">a) Exponential, Parentheses, Multiplication, Division, Addition, Subtraction<br />
+<p class="answer">a) Exponential, Parentheses, Multiplication, Division, Addition, Subtraction<br />
 b) Exponential, Parentheses, Division, Multiplication, Addition, Subtraction<br />
 c) Parentheses, Exponential, Multiplication, Division, Subtraction, Addition<br />
 d) Parentheses, Exponential, Multiplication, Division, Addition, Subtraction<br /></p>
@@ -223,7 +223,7 @@ Explanation: For order of precedence, just remember this PEMDAS (similar to BODM
 <div class="hk1_style-wrap5"><div class="hk1_style-wrap4"><div class="hk1_style-wrap3"><div class="hk1_style-wrap2"><div class="hk1_style-wrap"><div class="hk1_style"><div class="python"><pre class="de1">x<span class="sy0">&lt;&lt;</span><span class="nu0">2</span></pre></div></div></div></div></div></div></div>
 
 
-<p class"answer">a) 4<br />
+<p class="answer">a) 4<br />
 b) 2<br />
 c) 1<br />
 d) 8<br /></p>
